@@ -1,36 +1,13 @@
 ## 白嫖宇宙
 
 ### 废话少说！废话少说！废话少说！
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+很好的科普网站，它用网页滚动形式展示了从地球到宇宙深空的距离，通过滚动鼠标可以看到各种宇宙飞行器与行星！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+了解一下天空有多高-How Big Is Space
 
-```markdown
-Syntax highlighted code block
+传送门 http://www.secaibi.com/howbigisspace/ 
+奈菲的这部爆款剧《鱿鱼游戏》确实很经典，而今天的这个网站正好完美还原了剧中的经典游戏环节，淘汰制的游戏流程，玩起来和电视剧一样刺激！
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uwtc/charles.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+在线体检鱿鱼游戏-Squid Game
+传送门 https://squid-game.io/
